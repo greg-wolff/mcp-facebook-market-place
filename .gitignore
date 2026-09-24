@@ -15,3 +15,6 @@ debug_*.png
 error_*.html
 error_*.png
 *.html
+
+# macOS
+.DS_Store
